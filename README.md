@@ -1,6 +1,6 @@
 # [BlueStacks Change IP Proxy Settings](https://yilu.us/tutorials)
 BlueStacks is an Android emulator that can help users run Android applications on Windows or macOS. Using Bluestacks allows users to play games on a larger screen and use a keyboard and mouse to control the game. At the same time, using a proxy server that can provide faster network connection speeds, and improve the performance and responsiveness of the game application. Next, I will tell you how to configure YiLu Socks5 proxy and [BlueStacks change IP proxy settings](https://yilu.us/configuration/bluestacks-change-ip-proxy-settings).
-![BlueStacks Change IP Proxy Settings](https://api.yilu.us/wp-content/uploads/2023/04/bluestacks-setting-yilu-proxy-1.png)
+[![BlueStacks Change IP Proxy Settings](https://api.yilu.us/wp-content/uploads/2023/04/bluestacks-setting-yilu-proxy-1.png)](https://youtu.be/ubAkrn9JZ_A "BlueStacks Change IP Proxy Settings")
 ## 1. Download BlueStacks Android emulator.
 BlueStacks official website download URL: https://www.bluestacks.com/download.html  
 Here I use a Windows 10 PC to install BlueStacks 5, then change BlueStacks IP proxy settings.  
@@ -35,5 +35,9 @@ You can click the black area to test the proxy network speed.
 ## 7. Check the IP address.
 Run the Google Chrome browser on BlueStacks Android emulator, and enter “ipinfo.io” to check the IP address. The IP location is consistent with the selected location in YiLu Proxy client.  
 ![BlueStacks Change IP Proxy Settings](https://api.yilu.us/wp-content/uploads/2023/04/bluestacks-check-ip-address-9.png)  
+
+Related articles:
+https://yilu.us/configuration/how-to-use-yilu-proxy-in-android-emulator  
+https://yilu.us/integration/change-ip-proxy-settings-for-bluestacks  
 
 The article is from https://yilu.us/configuration/bluestacks-change-ip-proxy-settings
